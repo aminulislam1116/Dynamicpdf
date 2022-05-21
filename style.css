@@ -1,0 +1,22 @@
+*{
+    box-sizing: 0;
+    padding: 0%;
+    margin: 0;
+}
+.a{
+    max-width: 40%;
+    background-color: rgb(245, 225, 171);
+    padding: 4px;
+    border-radius: 5px;
+
+}
+.sa{text-align: right;
+
+}
+.s{
+    background-color: rgb(114, 245, 120);
+    padding: 3px;
+    border-radius: 5px;
+    
+    
+}
